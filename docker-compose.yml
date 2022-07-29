@@ -9,7 +9,6 @@ services:
         environment:
             - TOKEN=${TOKEN}
             - PORT=${PORT}
-            - MONGODB_ENABLED=${MONGODB_ENABLED}
             - MONGODB_URL=${MONGODB_URL}
             - WEBHOOK_ENABLED=${WEBHOOK_ENABLED}
             - WEBHOOK_URL=${WEBHOOK_URL}

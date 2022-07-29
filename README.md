@@ -32,7 +32,6 @@ An implementation of [Baileys](https://github.com/adiwajshing/Baileys/) as a sim
 2. Update `.env` and set
 
 ```
-MONGODB_ENABLED=true
 MONGODB_URL=mongodb://mongodb:27017/whatsapp_api
 ```
 
